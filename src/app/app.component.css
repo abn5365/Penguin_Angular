@@ -4,6 +4,8 @@
     border: 1px solid;
     padding: 10px;
     text-align: center;
+    background-color: red;
+  
 }
 .details {
   margin: 10 px;
@@ -15,8 +17,10 @@
 }
 
 .buttons {
-  display: block;
-}
+  text-transform: uppercase;
+  color: white;
+  paddling: 16px 16px;
+  background-color: blue;}
 
 .buttons button:focus, 
 .buttons button:hover {
